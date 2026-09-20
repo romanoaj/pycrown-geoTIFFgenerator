@@ -1,7 +1,7 @@
 
-# PyCrown - A Flexible Adaptation; GeoTIFF Generator - Automated Preprocessing
+# PyCrown Adaptation and GeoTIFF Generator
 * Original PyCrown module by Dr. Jan Schindler
-* Adaptation by Ava Romano (<mailto:ajromano@calpoly.edu>), advised by Michael Huggins
+* Adaptation and GeoTIFF generator by Ava Romano (<ajromano@calpoly.edu>), advised by Michael Huggins
 
 Published under GNU GPLv3
 
